@@ -5,3 +5,5 @@ scipy
 yfinance
 akshare
 tqdm
+ipykernel
+matplotlib-inline
